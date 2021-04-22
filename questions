@@ -1,0 +1,32 @@
+<!--
+1.      blockquote{
+            font-family: Arial, Times New Roman, sans-serif;  
+        }
+    
+
+2.     p{
+            font-size: 12pt;
+        }
+
+
+3.   h1,h2,h3.h4.h5.h6{
+        text-decoration-line: underline;
+        text-transform: uppercase;
+    }
+
+4.   p{
+        text-align: center;
+        font-weight: bold;
+        font-style: italic;
+    }
+
+5.   ul{
+        background-image: url(list.gif);
+        background-position: center;
+    }
+
+6.   ol{
+        list-style-type: decimal;
+    }
+
+-->
